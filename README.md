@@ -1,2 +1,2 @@
-# datasciencedoursera
+# datasciencecoursera
 my first github repo
